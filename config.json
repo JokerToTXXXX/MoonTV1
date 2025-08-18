@@ -330,6 +330,21 @@
     "api": "http://肥猫.com",
     "detail": "http://肥猫.com"
 },
+"api_11": {
+    "name": "TV-饭太硬主接口",
+    "api": "http://www.饭太硬.com/tv",
+    "detail": "http://www.饭太硬.com"
+},
+"api_12": {
+    "name": "TV-饭太硬备用1",
+    "api": "http://fty.xxooo.cf/tv",
+    "detail": "http://fty.xxooo.cf"
+},
+"api_13": {
+    "name": "TV-饭太硬备用2",
+    "api": "http://fty.888484.xyz/tv",
+    "detail": "http://fty.888484.xyz"
+},
         "api_47": {
             "name": "AV-91麻豆",
             "api": "https://91md.me/api.php/provide/vod",
