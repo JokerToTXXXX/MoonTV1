@@ -461,11 +461,6 @@
       "name": "淘片",
       "detail": "https://www.taopianzy.com/"
     },
- "FL_yzzy": {
-      "api": "https://www.yzzy.tv/api.php/provide/vod/?ac=list",
-      "name": "优质影视",
-      "detail": "https://www.yzzy.tv/"
-    },
    "wujin": {
       "api": "https://www.wujinzy.net/api.php/provide/vod/?ac=list",
       "name": "无尽资源",
