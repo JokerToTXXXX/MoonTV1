@@ -455,7 +455,7 @@
       "api": "https://www.suboziyuan.net/api.php/provide/vod/?ac=list",
       "name": "速播",
       "detail": "https://www.suboziyuan.net/"
-    }，
+    },
     "taopian": {
       "api": "https://www.taopianzy.com/api.php/provide/vod/?ac=list",
       "name": "淘片",
