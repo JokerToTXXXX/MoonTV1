@@ -444,7 +444,7 @@
       "api": "http://43.154.198.47:8282/gather/json",
       "name": "人人影视",
       "detail": "https://rrys.cc/movielist"
-}，
+},
 "api_31": {
             "name": "TV-红牛new",
             "api": "https://hongniuzy.tv/api.php/provide/vod/?ac=list",
