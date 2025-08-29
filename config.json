@@ -299,12 +299,7 @@
             "name": "TV-魔都动漫",
             "detail": "https://caiji.moduapi.cc"
      },
-    "api_44": {
-            "api": "http://43.154.198.47:8282/gather/json",
-            "name": "TV-人人影视",
-            "detail": "https://rrys.cc/movielist"
-       },
-    "api_47": {
+      "api_47": {
             "name": "AV-91麻豆",
             "api": "https://91md.me/api.php/provide/vod",
             "detail": "https://91md.me"
