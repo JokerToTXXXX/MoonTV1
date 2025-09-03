@@ -380,12 +380,36 @@
             "api": "https://www.kxgav.com/api/json.php",
             "detail": "https://www.kxgav.com"
         },
+"vpn_2": {
+            "name": "AV-AIvin",
+            "api": "http://lbapiby.com/api.php/provide/vod",
+            "detail": ""
+          },
 "vpn_1": {
             "name": "AV-奥斯卡资源",
-            "api": "https://aosikazy.com/api.php/provide/vod",
-            "detail": "https://aosikazy.com"
-
+            "api": "https://aosikazy.com/api.php/provide/vod"
+              },
+"vpn_2": {
+            "name": "AV-AIvin",
+            "api": "http://lbapiby.com/api.php/provide/vod"
+        },
+"vpn_3": {
+            "name": "AV-奶香香",
+            "api": "https://Naixxzy.com/api.php/provide/vod"
+        },
+"vpn_4": {
+            "name": "AV-91麻豆",
+            "api": "https://91md.me/api.php/provide/vod"
+        },
+"vpn_5": {
+            "name": "AV-辣椒资源",
+            "api": "https://apilj.com/api.php/provide/vod"
+        },
+"vpn_6": {
+            "name": "AV-森林资源",
+            "api": "https://slapibf.com/api.php/provide/vod"
         }
+
      }
    }
         
