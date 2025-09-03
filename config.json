@@ -383,7 +383,6 @@
 "vpn_2": {
             "name": "AV-AIvin",
             "api": "http://lbapiby.com/api.php/provide/vod",
-            "detail": ""
           },
 "vpn_1": {
             "name": "AV-奥斯卡资源",
@@ -409,7 +408,6 @@
             "name": "AV-森林资源",
             "api": "https://slapibf.com/api.php/provide/vod"
         }
-
      }
    }
         
