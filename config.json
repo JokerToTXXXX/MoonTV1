@@ -399,7 +399,11 @@
             "name": "AV-森林资源",
             "api": "https://slapibf.com/api.php/provide/vod",
             "detail": "https://slapibf.com"
-        }
+        },
+"vpn_1": {
+            "name": "AV-奥斯卡资源",
+            "api": "https://aosikazy.com/api.php/provide/vod",
+            "detail": "https://aosikazy.com"
      }
    }
         
