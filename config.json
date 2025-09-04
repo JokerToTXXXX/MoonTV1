@@ -98,14 +98,6 @@
             "name": "TV-1080资源库",
             "detail": "https://api.1080zyku.com"
     },
-    "api_47": {
-            "api": "http://zhangqun66.xyz/cjjh.php",
-            "name": "TV-切片合集1"
-    },
-    "api_48": {
-            "api": "http://zhangqun1818.serv00.net/klhj.php",
-             "name": "TV-切片合集2"
-    },
     "api_2": {
             "api": "https://360zy.com/api.php/provide/vod",
             "name": "TV-360资源",
