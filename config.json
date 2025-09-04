@@ -394,7 +394,7 @@
         },
 "vpn_1": {
             "name": "AV-奥斯卡资源",
-            "api": "https://aosikazy.com/api.php/provide/vod",
+            "api": "https://aosikazy.com/api.php/provide/vod/?ac=list",
             "detail": "https://aosikazy.com"
      }
     }
