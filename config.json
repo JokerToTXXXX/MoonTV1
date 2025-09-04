@@ -391,6 +391,10 @@
             "name": "AV-森林资源",
             "api": "https://slapibf.com/api.php/provide/vod",
             "detail": "https://slapibf.com"
+     },
+"vpn_7": {
+            "name": "AV-MISS",
+            "detail": "https://missav.ws/dm45"
      }
     }
    }
