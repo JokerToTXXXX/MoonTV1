@@ -6,12 +6,7 @@
       "name": "电影天堂资源",
       "detail": "http://caiji.dyttzyapi.com"
     },
-    "heimuer": {
-      "api": "https://json.heimuer.xyz/api.php/provide/vod",
-      "name": "黑木耳",
-      "detail": "https://heimuer.tv"
-    },
-    "ruyi": {
+      "ruyi": {
       "api": "http://cj.rycjapi.com/api.php/provide/vod",
       "name": "如意资源"
     },
@@ -391,10 +386,6 @@
             "name": "AV-森林资源",
             "api": "https://slapibf.com/api.php/provide/vod",
             "detail": "https://slapibf.com"
-     },
-"vpn_7": {
-            "name": "AV-MISS",
-            "detail": "https://missav.ws/dm45"
      }
     }
    }
