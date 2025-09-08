@@ -276,7 +276,7 @@
         },       
 "api_av6": {
               "name": "AV-小鸡资源",
-              "api": "https://api.xiaojizy.live/provide/vod?ac=list",
+              "api": "https://api.xiaojizy.live/provide/vod",
               "detail": "https://xiaojizy.live"
         }, 
 "api_av7": {
