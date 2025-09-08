@@ -238,6 +238,29 @@
             "name": "TV-飘零资源",
             "detail": "https://p2100.net"
        },
+    "api_t1": {
+            "api": "http://43.139.196.163:31308/gather/json",
+            "name": "人人影视",
+            "detail": "https://rrys.cc/movielist"
+    },
+"api_t3": {
+            "api": "https://api.yzzy-api.com/inc/apijson.php",
+            "name": "优质资源",
+            "detail": "https://www.yzzy.tv"
+    },
+"api_t4": {
+            "api": "https://cj.vodimg.top/api.php/provide/vod/",
+            "name": "影图资源"
+    },
+"api_t5": {
+            "api": "https://kuaichezy.vip/api.php/provide/vod/?ac=list",
+            "name": "快车",
+            "detail": "https://kuaichezy.vip"
+    },
+"api_t6": {
+            "api": "https://api.maoyanapi.top/api.php/provide/vod",
+            "name": "猫眼资源"
+    },
 "api_av1": {
             "name": "AV-色南国",
             "api": "https://api.sexnguon.com/api.php/provide/vod",
@@ -253,11 +276,7 @@
             "api": "https://www.jingpinx.com/api.php/provide/vod",
             "detail": "https://www.jingpinx.com"
         },        
-"api_av4": {
-            "name": "AV-美少女资源",
-            "api": "https://www.msnii.com/api/json.php",
-            "detail": "https://www.msnii.com"
-        },        
+
 "api_av5": {
             "name": "AV-淫水机资源",
             "api": "https://www.xrbsp.com/api/json.php",
