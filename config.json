@@ -248,10 +248,6 @@
             "name": "优质资源",
             "detail": "https://www.yzzy.tv"
     },
-"api_t4": {
-            "api": "https://cj.vodimg.top/api.php/provide/vod/",
-            "name": "影图资源"
-    },
 "api_t5": {
             "api": "https://kuaichezy.vip/api.php/provide/vod/?ac=list",
             "name": "快车",
