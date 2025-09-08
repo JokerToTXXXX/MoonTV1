@@ -6,7 +6,7 @@
       "name": "电影天堂资源",
       "detail": "http://caiji.dyttzyapi.com"
     },
-      "ruyi": {
+    "ruyi": {
       "api": "http://cj.rycjapi.com/api.php/provide/vod",
       "name": "如意资源"
     },
@@ -25,7 +25,8 @@
     },
     "zy360": {
       "api": "https://360zy.com/api.php/provide/vod",
-      "name": "360资源"
+      "name": "360资源",
+      "detail": "https://360zy.com"
     },
     "maotaizy": {
       "api": "https://caiji.maotaizy.cc/api.php/provide/vod",
@@ -92,11 +93,6 @@
             "api": "https://api.1080zyku.com/inc/api_mac10.php",
             "name": "TV-1080资源库",
             "detail": "https://api.1080zyku.com"
-    },
-    "api_2": {
-            "api": "https://360zy.com/api.php/provide/vod",
-            "name": "TV-360资源",
-            "detail": "https://360zy.com"
     },
     "api_3": {
             "api": "https://ckzy.me/api.php/provide/vod",
