@@ -397,7 +397,17 @@
             "name": "AV-森林资源",
             "api": "https://slapibf.com/api.php/provide/vod",
             "detail": "https://slapibf.com"
-     }
+     },
+    "aosikazy": {
+      "api": "https://aosikazy.com/api.php/provide/vod",
+      "name": "AV-奥斯卡资源",
+      "detail": "https://aosikazy.com",
+      "is_adult": true
+    },
+     "yparse": {
+      "api": "https://api.yparse.com/api/json",
+      "name": "TV-步步高资源"
+    }
     }
    }
   
