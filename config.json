@@ -401,7 +401,20 @@
      "yparse": {
       "api": "https://api.yparse.com/api/json",
       "name": "TV-步步高资源"
-    }
+    },
+    "lbapiby": {
+      "api": "http://lbapiby.com/api.php/provide/vod",
+      "name": "AV-AIvin"
+    },
+    "maozyapi": {
+      "api": "https://api.maozyapi.com/inc/apijson_vod.php",
+      "name": "AV-色猫资源",
+      "detail": "https://api.maozyapi.com"
+    },
+    "hsckzy888": {
+      "api": "https://hsckzy888.com/api.php/provide/vod",
+      "name": "黄色资源啊啊"
+        }
     }
    }
   
